@@ -3,7 +3,7 @@
   "version": "1.84.0",
   "private": true,
   "engines": {
-    "node": ">=20.15",
+    "node": "22.12.0"
     "pnpm": ">=10.2.1"
   },
   "packageManager": "pnpm@10.2.1",
@@ -103,8 +103,5 @@
       "vue-tsc@2.2.8": "patches/vue-tsc@2.2.8.patch",
       "eslint-plugin-n8n-local-rules": "patches/eslint-plugin-n8n-local-rules.patch"
     }
-  }
-   "engines": {
-    "node": "22.12.0"
   }
 }
