@@ -104,4 +104,7 @@
       "eslint-plugin-n8n-local-rules": "patches/eslint-plugin-n8n-local-rules.patch"
     }
   }
+   "engines": {
+    "node": "22.12.0"
+  }
 }
